@@ -1,4 +1,4 @@
-# Ejercicio 10 Responsive Design
+# Ejercicio 10 Diseño Responsivo
 Ejercicio 10 / Diseño Responsive con CSS del curso de HTML Y CSS de Open Bootcamp
 
 ##Crea un nuevo documento HTML con el título "Diseño Responsive con CSS"
